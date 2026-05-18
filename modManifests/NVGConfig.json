@@ -17,9 +17,9 @@
     {
       "type": "plugin",
       "fileName": "NVG Config.dll",
-      "downloadUrl": "https://github.com/Domiyaaa/NVG-Config-mod/releases/download/v1.2.1/NVG%20Config.dll",
+      "downloadUrl": "https://github.com/Domiyaaa/NVG-Config-mod/releases/download/v1.2.2/NVG%20Config.dll",
       "gameVersion": "0.33",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "category": "Release"
     }
   ]
