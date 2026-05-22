@@ -1,0 +1,31 @@
+{
+	"id": "RITA_RVWS",
+	"displayName": "RITA: Russian Voice Warning System",
+	"description": "Replaces Nuclear Option's English Voice Warning System with Russian equivalents.",
+	"tags": [
+		"Flavour",
+		"Sound"
+	],
+	"urls": [
+		{
+			"name": "info",
+			"url": "https://github.com/muhimin01/no-rita-rvws"
+		}
+	],
+	"authors": [
+		"betanonymous"
+	],
+	"githubOwner": "muhimin01",
+	"githubRepoName": "no-rita-rvws",
+	"autoUpdateArtifacts": "True",
+	"artifacts": [
+		{
+			"type": "plugin",
+			"fileName": "RITA_RVWS",
+			"downloadUrl": "https://github.com/muhimin01/no-rita-rvws/releases/download/2.0.1/RITA_RVWS_2.0.1.zip",
+			"gameVersion": "0.33",
+			"version": "2.0.1",
+			"category": "release"
+		}
+	]
+}
