@@ -1,0 +1,24 @@
+{
+  "id": "KnockPush",
+  "displayName": "RAH-72 Pushout",
+  "description": "Adds a rear pusher propeller to the Aryx RAH-72 and rebuilds its coaxial main-rotor motion blur as a live fan of the real blade.",
+  "tags": ["mod", "Aircraft"],
+  "urls": [
+    { "name": "info", "url": "https://github.com/Rendresen/PushOut" }
+  ],
+  "authors": ["Rendresen"],
+  "githubOwner": "Rendresen",
+  "githubRepoName": "PushOut",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "KnockPush-1.7.12.zip",
+      "version": "1.7.12",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/PushOut/releases/download/v1.7.12/KnockPush-1.7.12.zip",
+      "hash": "sha256:F774C57957896D343BD3DDF015FE08C48C356686E14431664CB8C0463878D185"
+    }
+  ]
+}
