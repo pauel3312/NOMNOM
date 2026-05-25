@@ -1,7 +1,7 @@
 {
   "id": "Anomie.Cargo.Request",
   "displayName": "Anomie Cargo Request",
-  "description": "Anomie Cargo Request is a plugin that takes the need for logistics players by make it handled by AI on command.",
+  "description": "Anomie Cargo Request lets players call in AI-handled cargo logistics support, reducing the need for dedicated logistics players.",
   "tags": [
     "QoL",
     "Utility"
