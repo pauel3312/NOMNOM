@@ -72,7 +72,7 @@
         "hash": "sha256:48cca4e41e038f61e9cd3ce34fcefda5d533ac26b97e79e76188dc1cd1fe0f93"
       }
     ],
-    "downloadCount": 2232
+    "downloadCount": 2233
   },
   {
     "id": "ActiveDecoy",
@@ -105,7 +105,7 @@
         "hash": "sha256:2d35e5185a375e3525ea68d91e1e782a99ed782f6e8bd20ac372baf40ede6957"
       }
     ],
-    "downloadCount": 1605
+    "downloadCount": 1607
   },
   {
     "id": "AIAircraftLimit",
@@ -138,7 +138,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 3590
+    "downloadCount": 3591
   },
   {
     "id": "AircraftWaypoints",
@@ -170,7 +170,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 1678
+    "downloadCount": 1679
   },
   {
     "id": "anomie.advancedcombatoverlay",
@@ -183,7 +183,7 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases"
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
       }
     ],
     "authors": [
@@ -215,12 +215,13 @@
         "type": "plugin",
         "fileName": "anomie.advancedcombatoverlay_v1.0.0.zip",
         "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.0.0/anomie.advancedcombatoverlay_v1.0.0.zip",
+        "hash": "sha256:a612b997a57dd2d77d1402294e9b365e6689dc8366231abeb547a5fa3c3357da",
         "gameVersion": "0.33",
         "version": "1.0.0",
         "category": "Release"
       }
     ],
-    "downloadCount": 14
+    "downloadCount": 18
   },
   {
     "id": "Anomie.Cargo.Request",
@@ -261,7 +262,49 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 14
+    "downloadCount": 18
+  },
+  {
+    "id": "anomie.cargorequest",
+    "displayName": "Anomie Cargo Request",
+    "description": "Anomie Cargo Request lets players call in AI-handled cargo logistics support, reducing the need for dedicated logistics players.",
+    "tags": [
+      "QoL",
+      "Utility"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+      }
+    ],
+    "authors": [
+      "Anomie"
+    ],
+    "githubOwner": "NotAnomie",
+    "githubRepoName": "Nomnom-Mod-Releases",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "emi.shoshanas.spawntool_v1.6.11.zip",
+        "version": "1.6.11",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.6.11/emi.shoshanas.spawntool_v1.6.11.zip",
+        "hash": "sha256:f80d205f333eb3a181892f161df060a8bfa04979126f61d61ea9159941863943"
+      },
+      {
+        "type": "plugin",
+        "fileName": "anomie.cargorequest_v1.6.8.zip",
+        "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.6.8/anomie.cargorequest_v1.6.8.zip",
+        "hash": "sha256:ccae5bcce592d9aea04fd0df1c5455cac50205a40d22dce1737d628f20e488e0",
+        "gameVersion": "0.33",
+        "version": "1.6.8",
+        "category": "Release"
+      }
+    ],
+    "downloadCount": 18
   },
   {
     "id": "aryx.f16m",
@@ -486,7 +529,7 @@
         }
       }
     ],
-    "downloadCount": 28880
+    "downloadCount": 28885
   },
   {
     "id": "aryx.mc260",
@@ -659,7 +702,7 @@
         }
       }
     ],
-    "downloadCount": 25628
+    "downloadCount": 25631
   },
   {
     "id": "aryx.mig15",
@@ -741,7 +784,7 @@
         }
       }
     ],
-    "downloadCount": 12379
+    "downloadCount": 12382
   },
   {
     "id": "aryx.rah72",
@@ -770,6 +813,19 @@
     "githubRepoName": "Aryx-RAH-72-Knockout",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "aryx_rah72_knockout_1.0.4.nobp",
+        "version": "1.0.4",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Aryx3D/Aryx-RAH-72-Knockout/releases/download/1.0.4/aryx_rah72_knockout_1.0.4.nobp",
+        "hash": "sha256:9761e13d373c584211ec74e601e41634d0870bdb86d8a8f70ec8aef56e5b87b3",
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.19"
+        }
+      },
       {
         "fileName": "aryx_rah72_knockout_1.0.3.nobp",
         "version": "1.0.3",
@@ -823,7 +879,7 @@
         }
       }
     ],
-    "downloadCount": 7592
+    "downloadCount": 7601
   },
   {
     "id": "AtomicFramework",
@@ -962,7 +1018,7 @@
         "hash": "sha256:583955d56dd06aa4a0232fb17bd9846cf0dd876c5a9c8472810e4d6d54c40a33"
       }
     ],
-    "downloadCount": 2667
+    "downloadCount": 2670
   },
   {
     "id": "blueprinter.kestrel",
@@ -1006,7 +1062,7 @@
         }
       }
     ],
-    "downloadCount": 14964
+    "downloadCount": 14967
   },
   {
     "id": "blueprinter.ternion",
@@ -1060,7 +1116,7 @@
         }
       }
     ],
-    "downloadCount": 14290
+    "downloadCount": 14296
   },
   {
     "id": "bote",
@@ -1186,7 +1242,7 @@
         }
       }
     ],
-    "downloadCount": 17013
+    "downloadCount": 17014
   },
   {
     "id": "CameraPresets",
@@ -1422,7 +1478,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 787
+    "downloadCount": 788
   },
   {
     "id": "com.basicGrowl",
@@ -1654,7 +1710,7 @@
         ]
       }
     ],
-    "downloadCount": 1747
+    "downloadCount": 1749
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -1727,7 +1783,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 33779
+    "downloadCount": 33783
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1769,7 +1825,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 1872
+    "downloadCount": 1873
   },
   {
     "id": "DefensiveAutoTarget",
@@ -1885,6 +1941,75 @@
     "downloadCount": 349
   },
   {
+    "id": "emi.shoshanas.hostwebpanel",
+    "displayName": "Shoshanas Host Web Panel",
+    "description": "This is a Host Admin panel. You can give money/airframes and do other stuff to other players.",
+    "tags": [
+      "QoL",
+      "Utility"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+      }
+    ],
+    "authors": [
+      "Anomie"
+    ],
+    "githubOwner": "NotAnomie",
+    "githubRepoName": "Nomnom-Mod-Releases",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "emi.shoshanas.spawntool_v1.6.11.zip",
+        "version": "1.6.11",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.6.11/emi.shoshanas.spawntool_v1.6.11.zip",
+        "hash": "sha256:f80d205f333eb3a181892f161df060a8bfa04979126f61d61ea9159941863943"
+      },
+      {
+        "fileName": "anomie.cargorequest_v1.6.8.zip",
+        "version": "1.6.8",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.6.8/anomie.cargorequest_v1.6.8.zip",
+        "hash": "sha256:ccae5bcce592d9aea04fd0df1c5455cac50205a40d22dce1737d628f20e488e0"
+      },
+      {
+        "fileName": "shoshanas.tvmissilehud_v1.6.6.zip",
+        "version": "1.6.6",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.6.6/shoshanas.tvmissilehud_v1.6.6.zip",
+        "hash": "sha256:14827f8d9148f47512a6cdf3f5ce6ee88d8b79d3c4283ce5b14bd88d73f10979"
+      },
+      {
+        "fileName": "anomie.advancedcombatoverlay_v1.0.0.zip",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.0.0/anomie.advancedcombatoverlay_v1.0.0.zip",
+        "hash": "sha256:a612b997a57dd2d77d1402294e9b365e6689dc8366231abeb547a5fa3c3357da"
+      },
+      {
+        "type": "plugin",
+        "fileName": "emi.shoshanas.hostwebpanel_v0.5.5.zip",
+        "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v0.5.5/emi.shoshanas.hostwebpanel_v0.5.5.zip",
+        "hash": "sha256:dcb631eabda5092adbd07c6e2cf54abde1098b52c135afbdcf7123a0fe194a0e",
+        "gameVersion": "0.33",
+        "version": "0.5.5",
+        "category": "Release"
+      }
+    ],
+    "downloadCount": 18
+  },
+  {
     "id": "emi.shoshanas.maptargetselectguard",
     "displayName": "Shoshanas Map Target Select Guard",
     "description": "Ever had the problem that you select 2 targets at the same time if i you use the keybind on the MAP? DON'T BE AFRAID ANYMORE this mod is all you need.. i fixed it with literally 5 minutes of time and 57 lines of code.",
@@ -1927,12 +2052,13 @@
         "type": "plugin",
         "fileName": "emi.shoshanas.maptargetselectguard_v1.0.0.zip",
         "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.0.0/emi.shoshanas.maptargetselectguard_v1.0.0.zip",
+        "hash": "sha256:4f9788976e8dfedd34eceb9735215110b6de6e7b603a6f29424275a4670aeb6c",
         "gameVersion": "0.33",
         "version": "1.0.0",
         "category": "Release"
       }
     ],
-    "downloadCount": 14
+    "downloadCount": 18
   },
   {
     "id": "emi.shoshanas.spawntool",
@@ -1945,7 +2071,7 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases"
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
       }
     ],
     "authors": [
@@ -1959,12 +2085,73 @@
         "type": "plugin",
         "fileName": "emi.shoshanas.spawntool_v1.6.11.zip",
         "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.6.11/emi.shoshanas.spawntool_v1.6.11.zip",
+        "hash": "sha256:f80d205f333eb3a181892f161df060a8bfa04979126f61d61ea9159941863943",
         "gameVersion": "0.33",
         "version": "1.6.11",
         "category": "Release"
       }
     ],
-    "downloadCount": 14
+    "downloadCount": 18
+  },
+  {
+    "id": "emi.shoshanas.togglehandbrake",
+    "displayName": "Shoshanas Toggle Handbrake",
+    "description": "Shoshanas Toggle Handbreak rebinds the handbreak to a toggle instead of a hold action",
+    "tags": [
+      "QoL",
+      "Utility"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+      }
+    ],
+    "authors": [
+      "Anomie"
+    ],
+    "githubOwner": "NotAnomie",
+    "githubRepoName": "Nomnom-Mod-Releases",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "emi.shoshanas.spawntool_v1.6.11.zip",
+        "version": "1.6.11",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.6.11/emi.shoshanas.spawntool_v1.6.11.zip",
+        "hash": "sha256:f80d205f333eb3a181892f161df060a8bfa04979126f61d61ea9159941863943"
+      },
+      {
+        "fileName": "anomie.cargorequest_v1.6.8.zip",
+        "version": "1.6.8",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.6.8/anomie.cargorequest_v1.6.8.zip",
+        "hash": "sha256:ccae5bcce592d9aea04fd0df1c5455cac50205a40d22dce1737d628f20e488e0"
+      },
+      {
+        "fileName": "shoshanas.tvmissilehud_v1.6.6.zip",
+        "version": "1.6.6",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.6.6/shoshanas.tvmissilehud_v1.6.6.zip",
+        "hash": "sha256:14827f8d9148f47512a6cdf3f5ce6ee88d8b79d3c4283ce5b14bd88d73f10979"
+      },
+      {
+        "type": "plugin",
+        "fileName": "emi.shoshanas.togglehandbrake_v1.0.0.zip",
+        "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.0.0/emi.shoshanas.togglehandbrake_v1.0.0.zip",
+        "hash": "sha256:ac9074f63dfb9388cdb8c95260a67c9d8b295bca72810c269fb1c432fe8a7532",
+        "gameVersion": "0.33",
+        "version": "1.0.0",
+        "category": "Release"
+      }
+    ],
+    "downloadCount": 18
   },
   {
     "id": "F16VaporTuner",
@@ -2008,7 +2195,7 @@
         ]
       }
     ],
-    "downloadCount": 1682
+    "downloadCount": 1685
   },
   {
     "id": "FrontlineMap",
@@ -2066,7 +2253,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 7113
+    "downloadCount": 7116
   },
   {
     "id": "galaxy2_voice",
@@ -2491,7 +2678,7 @@
         }
       }
     ],
-    "downloadCount": 16489
+    "downloadCount": 16490
   },
   {
     "id": "klawshout_voice",
@@ -2558,7 +2745,7 @@
         "hash": "sha256:1cb21af1577180fcaec008f70bc9ca2e191de79335fed9817c64463e2d5b4a8c"
       }
     ],
-    "downloadCount": 168
+    "downloadCount": 171
   },
   {
     "id": "KR-EW.67",
@@ -2623,7 +2810,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4143
+    "downloadCount": 4144
   },
   {
     "id": "LiveryManager",
@@ -4977,7 +5164,7 @@
         ]
       }
     ],
-    "downloadCount": 12379
+    "downloadCount": 12383
   },
   {
     "id": "no-autopilot-mod",
@@ -5307,7 +5494,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 13597
+    "downloadCount": 13601
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -5432,7 +5619,7 @@
         ]
       }
     ],
-    "downloadCount": 3751
+    "downloadCount": 3752
   },
   {
     "id": "NOControllerVibration",
@@ -5528,7 +5715,7 @@
         "hash": "sha256:0d65fdb6fb55601346750c0e9251bcd14e52a631bf4fa540aba835d781401d74"
       }
     ],
-    "downloadCount": 328
+    "downloadCount": 329
   },
   {
     "id": "NOCursorOverride",
@@ -6090,7 +6277,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2521
+    "downloadCount": 2522
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -6425,7 +6612,7 @@
         ]
       }
     ],
-    "downloadCount": 13355
+    "downloadCount": 13357
   },
   {
     "id": "RepairProgress",
@@ -6465,7 +6652,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 4318
+    "downloadCount": 4319
   },
   {
     "id": "RITA_RVWS",
@@ -6526,7 +6713,7 @@
         ]
       }
     ],
-    "downloadCount": 348
+    "downloadCount": 349
   },
   {
     "id": "RuntimeUnityEditor",
@@ -6609,7 +6796,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 14
+    "downloadCount": 18
   },
   {
     "id": "shoshanas.tvmissilehud",
@@ -6622,7 +6809,7 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases"
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.6"
       }
     ],
     "authors": [
@@ -6645,12 +6832,13 @@
         "type": "plugin",
         "fileName": "shoshanas.tvmissilehud_v1.6.6.zip",
         "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.6.6/shoshanas.tvmissilehud_v1.6.6.zip",
+        "hash": "sha256:14827f8d9148f47512a6cdf3f5ce6ee88d8b79d3c4283ce5b14bd88d73f10979",
         "gameVersion": "0.33",
         "version": "1.6.6",
         "category": "Release"
       }
     ],
-    "downloadCount": 14
+    "downloadCount": 18
   },
   {
     "id": "skyeye_voice",
@@ -6817,7 +7005,7 @@
         "hash": "sha256:6d08fbb38d93e4a04c0f4530de491cc0b57a77fd3e0b201b7d6eb9f93302218d"
       }
     ],
-    "downloadCount": 3420
+    "downloadCount": 3421
   },
   {
     "id": "TargetCamControl",
@@ -6959,7 +7147,7 @@
         ]
       }
     ],
-    "downloadCount": 815
+    "downloadCount": 816
   },
   {
     "id": "ThirdFaction",
@@ -7237,7 +7425,7 @@
         ]
       }
     ],
-    "downloadCount": 1578
+    "downloadCount": 1579
   },
   {
     "id": "uuvr",
@@ -7300,7 +7488,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 3724
+    "downloadCount": 3725
   },
   {
     "id": "WeatherController",
@@ -7364,7 +7552,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 6920
+    "downloadCount": 6924
   },
   {
     "id": "YawOnMouse",
@@ -7414,7 +7602,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 798
+    "downloadCount": 799
   },
   {
     "id": "Zorduzd",

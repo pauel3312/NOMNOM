@@ -20,6 +20,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "emi.shoshanas.spawntool_v1.6.11.zip",
+      "version": "1.6.11",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.6.11/emi.shoshanas.spawntool_v1.6.11.zip",
+      "hash": "sha256:f80d205f333eb3a181892f161df060a8bfa04979126f61d61ea9159941863943"
+    },
+    {
       "type": "plugin",
       "fileName": "anomie.cargorequest_v1.6.8.zip",
       "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.6.8/anomie.cargorequest_v1.6.8.zip",
@@ -28,5 +37,6 @@
       "version": "1.6.8",
       "category": "Release"
     }
-  ]
+  ],
+  "downloadCount": 18
 }
