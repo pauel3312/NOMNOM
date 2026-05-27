@@ -16,6 +16,7 @@ NOMNOM can self-update its registry, so it is able to automatically pick up new 
 
 However, there are some basic requirements in order for NOMNOM to keep itself up to date in regards to the latest available versions of your Mod(s):
  - your Mod Release(s) must be available as GitHub Repository Release Package(s). However, please note this doesn't mean your mod must be open source, you can upload releases without having any source code in the repository.
+ - the github repository for your mod should contain releases for ONLY ONE mod.
  - your Mod Release(s) should have one downloadable Asset per Release. If your mod consists of Multiple Files, upload the Release as a Compressed Archive (e.g. zip,rar,7z)
      - if your release pages have multiple downloadable files, the first one on the list will be pulled in by NOMNOM.
      - standalone dll and nobp files are also supported with no compression required.
