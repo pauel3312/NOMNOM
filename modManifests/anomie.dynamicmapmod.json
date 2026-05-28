@@ -1,7 +1,7 @@
 {
   "id": "anomie.dynamicmapmod",
   "displayName": "Anomies Dynamic Map Mod",
-  "description": "Colors real human players separately from AI on the dynamic map, minimap, HUD markers, target markers, and target lists. Friendly players are shown in green, enemy players in orange, while AI units keep the game\u2019s original blue/red faction colors. Map hover names and normal unit tooltips are preserved.",
+  "description": "Colors real human players separately from AI on the dynamic map, minimap, HUD markers, target markers, and target lists. Friendly players are shown in green, enemy players in orange, while AI units keep the game original blue/red faction colors. Map hover names and normal unit tooltips are preserved.",
   "tags": [
     "QoL",
     "Utility"
