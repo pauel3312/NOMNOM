@@ -1,0 +1,32 @@
+{
+  "id": "com.equalizer.unified",
+  "displayName": "Equalizer Mod",
+  "description": "Equalize modded airframes and ground units with vanilla in Inventory and Factory (Production)",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/equalizer-mod"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "equalizer-mod",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "com.equalizer.unified_v2.2.0.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-com-equalizer-unified/releases/download/v2.2.0/com.equalizer.unified_v2.2.0.zip",
+      "hash": "sha256:ebce7d893a42294524b862e633e392b52246e9ba81424c13b44c0842090446a8",
+      "gameVersion": "0.33.3",
+      "version": "2.2.0",
+      "category": "Release"
+    }
+  ]
+}
