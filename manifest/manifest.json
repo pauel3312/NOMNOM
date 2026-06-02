@@ -72,7 +72,7 @@
         "hash": "sha256:48cca4e41e038f61e9cd3ce34fcefda5d533ac26b97e79e76188dc1cd1fe0f93"
       }
     ],
-    "downloadCount": 2535
+    "downloadCount": 2536
   },
   {
     "id": "ActiveDecoy",
@@ -245,7 +245,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 303
+    "downloadCount": 306
   },
   {
     "id": "anomie.counterbatteryscanner",
@@ -624,7 +624,7 @@
         }
       }
     ],
-    "downloadCount": 32247
+    "downloadCount": 32249
   },
   {
     "id": "aryx.mc260",
@@ -797,7 +797,7 @@
         }
       }
     ],
-    "downloadCount": 27578
+    "downloadCount": 27580
   },
   {
     "id": "aryx.mig15",
@@ -879,7 +879,7 @@
         }
       }
     ],
-    "downloadCount": 13386
+    "downloadCount": 13387
   },
   {
     "id": "aryx.rah72",
@@ -987,7 +987,7 @@
         }
       }
     ],
-    "downloadCount": 11396
+    "downloadCount": 11399
   },
   {
     "id": "AtomicFramework",
@@ -1170,7 +1170,7 @@
         }
       }
     ],
-    "downloadCount": 16206
+    "downloadCount": 16207
   },
   {
     "id": "blueprinter.ternion",
@@ -1224,7 +1224,7 @@
         }
       }
     ],
-    "downloadCount": 16573
+    "downloadCount": 16575
   },
   {
     "id": "bote",
@@ -1363,7 +1363,7 @@
         }
       }
     ],
-    "downloadCount": 18269
+    "downloadCount": 18277
   },
   {
     "id": "CameraPresets",
@@ -1574,7 +1574,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 704
+    "downloadCount": 705
   },
   {
     "id": "ChicaneWingDelete",
@@ -1934,7 +1934,7 @@
         ]
       }
     ],
-    "downloadCount": 2014
+    "downloadCount": 2015
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -2007,7 +2007,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 36015
+    "downloadCount": 36017
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -2076,7 +2076,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 2062
+    "downloadCount": 2063
   },
   {
     "id": "DefensiveAutoTarget",
@@ -2222,7 +2222,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 198
+    "downloadCount": 199
   },
   {
     "id": "emi.shoshanas.hostwebpanel",
@@ -2321,7 +2321,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 121
+    "downloadCount": 122
   },
   {
     "id": "emi.shoshanas.togglehandbrake",
@@ -2944,7 +2944,7 @@
         }
       }
     ],
-    "downloadCount": 17692
+    "downloadCount": 17695
   },
   {
     "id": "klawshout_voice",
@@ -3056,7 +3056,7 @@
         "hash": "sha256:1cb21af1577180fcaec008f70bc9ca2e191de79335fed9817c64463e2d5b4a8c"
       }
     ],
-    "downloadCount": 1006
+    "downloadCount": 1010
   },
   {
     "id": "KR-EW.67",
@@ -5805,7 +5805,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 14377
+    "downloadCount": 14378
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -7054,7 +7054,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 4808
+    "downloadCount": 4809
   },
   {
     "id": "RITA_RVWS",
@@ -7185,7 +7185,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 265
+    "downloadCount": 266
   },
   {
     "id": "skyeye_voice",
@@ -7390,7 +7390,7 @@
         ]
       }
     ],
-    "downloadCount": 277
+    "downloadCount": 278
   },
   {
     "id": "TargetEstimator",
@@ -7772,7 +7772,7 @@
         ]
       }
     ],
-    "downloadCount": 1930
+    "downloadCount": 1932
   },
   {
     "id": "uuvr",
