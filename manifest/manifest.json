@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 4027
+    "downloadCount": 4030
   },
   {
     "id": "AB-4X mod",
@@ -105,7 +105,7 @@
         "hash": "sha256:2d35e5185a375e3525ea68d91e1e782a99ed782f6e8bd20ac372baf40ede6957"
       }
     ],
-    "downloadCount": 1942
+    "downloadCount": 1944
   },
   {
     "id": "AIAircraftLimit",
@@ -138,7 +138,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4130
+    "downloadCount": 4133
   },
   {
     "id": "AircraftWaypoints",
@@ -212,7 +212,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 239
+    "downloadCount": 241
   },
   {
     "id": "anomie.cargorequest",
@@ -254,7 +254,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 329
+    "downloadCount": 330
   },
   {
     "id": "anomie.counterbatteryscanner",
@@ -287,7 +287,39 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 218
+    "downloadCount": 220
+  },
+  {
+    "id": "anomie.debugdoctor",
+    "displayName": "Anomie Debug Doctor",
+    "description": "Debug-only diagnostic tool for Nuclear Option BepInEx mod setups. Logs plugin lifecycle, Update/OnGUI status, Unity errors, scene changes, loaded assemblies, BepInEx paths, plugin inventory, file inventory, and input probes. Useful for finding broken mod runtime states, missing UI/hotkey behavior, silent load issues, or plugin GameObjects being destroyed early. Not a gameplay mod; remove after debugging.",
+    "tags": [
+      "Utility"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NotAnomie/NOMNOM-anomie-debugdoctor/releases"
+      }
+    ],
+    "authors": [
+      "Anomie"
+    ],
+    "githubOwner": "NotAnomie",
+    "githubRepoName": "NOMNOM-anomie-debugdoctor",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "type": "plugin",
+        "fileName": "anomie.debugdoctor_v1.0.0.zip",
+        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-debugdoctor/releases/download/v1.0.0/anomie.debugdoctor_v1.0.0.zip",
+        "hash": "sha256:3ca37676ac03c552a7a47edb4589148c098a97ad98f2446846a4999571a30d85",
+        "gameVersion": "0.33",
+        "version": "1.0.0",
+        "category": "Release"
+      }
+    ],
+    "downloadCount": 0
   },
   {
     "id": "anomie.dynamicmapmod",
@@ -300,7 +332,7 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+        "url": "https://github.com/NotAnomie/NOMNOM-anomie-dynamicmapmod/releases"
       }
     ],
     "authors": [
@@ -373,6 +405,38 @@
     "downloadCount": 15
   },
   {
+    "id": "Anomie.NuclearOption.DevelopmentKit.Bridge",
+    "displayName": "Anomie Nuclear Option Development Kit",
+    "description": "Live development and inspection toolkit for Nuclear Option. Explore scenes, units, IDs, weapon slots, hardpoints, paths, explosions, assets, runtime objects and live events through a separate WinForms interface, with JSON and CSV export support.",
+    "tags": [
+      "Utility"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NotAnomie/NOMNOM-anomie-nuclearoption-developmentkit-bridge/releases"
+      }
+    ],
+    "authors": [
+      "Anomie"
+    ],
+    "githubOwner": "NotAnomie",
+    "githubRepoName": "NOMNOM-anomie-nuclearoption-developmentkit-bridge",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "type": "plugin",
+        "fileName": "Anomie.NuclearOption.DevelopmentKit.Bridge_v0.1.3.zip",
+        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-nuclearoption-developmentkit-bridge/releases/download/v0.1.3/Anomie.NuclearOption.DevelopmentKit.Bridge_v0.1.3.zip",
+        "hash": "sha256:3490bc488209ef844910f24f90b49bb85c5545e58db79adbaa8c5ac975d93e64",
+        "gameVersion": "0.33",
+        "version": "0.1.3",
+        "category": "Pre-Release"
+      }
+    ],
+    "downloadCount": 2
+  },
+  {
     "id": "anomie.rearmstatushud",
     "displayName": "Anomies Rearm Status HUD",
     "description": "Shows a compact rearm status HUD with queued rearm ETA, progress bar, and completion feedback while the minimap is visible.",
@@ -383,7 +447,7 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+        "url": "https://github.com/NotAnomie/NOMNOM-anomie-rearmstatushud/releases"
       }
     ],
     "authors": [
@@ -412,7 +476,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 213
+    "downloadCount": 214
   },
   {
     "id": "anomie.rescuebeacon",
@@ -425,7 +489,7 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+        "url": "https://github.com/NotAnomie/NOMNOM-anomie-rescuebeacon/releases"
       }
     ],
     "authors": [
@@ -445,7 +509,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 67
+    "downloadCount": 68
   },
   {
     "id": "aryx.f16m",
@@ -683,7 +747,7 @@
         }
       }
     ],
-    "downloadCount": 33889
+    "downloadCount": 33904
   },
   {
     "id": "aryx.mc260",
@@ -856,7 +920,7 @@
         }
       }
     ],
-    "downloadCount": 28794
+    "downloadCount": 28806
   },
   {
     "id": "aryx.mig15",
@@ -938,7 +1002,7 @@
         }
       }
     ],
-    "downloadCount": 13984
+    "downloadCount": 13992
   },
   {
     "id": "aryx.rah72",
@@ -1046,7 +1110,7 @@
         }
       }
     ],
-    "downloadCount": 12760
+    "downloadCount": 12770
   },
   {
     "id": "AtomicFramework",
@@ -1119,7 +1183,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2673
+    "downloadCount": 2674
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -1185,7 +1249,7 @@
         "hash": "sha256:583955d56dd06aa4a0232fb17bd9846cf0dd876c5a9c8472810e4d6d54c40a33"
       }
     ],
-    "downloadCount": 3259
+    "downloadCount": 3262
   },
   {
     "id": "blueprinter.kestrel",
@@ -1229,7 +1293,7 @@
         }
       }
     ],
-    "downloadCount": 16925
+    "downloadCount": 16934
   },
   {
     "id": "blueprinter.ternion",
@@ -1283,7 +1347,7 @@
         }
       }
     ],
-    "downloadCount": 17879
+    "downloadCount": 17893
   },
   {
     "id": "bote",
@@ -1435,7 +1499,7 @@
         }
       }
     ],
-    "downloadCount": 20356
+    "downloadCount": 20360
   },
   {
     "id": "CameraPresets",
@@ -1468,7 +1532,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 818
+    "downloadCount": 819
   },
   {
     "id": "CargoHookFree",
@@ -1707,7 +1771,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1006
+    "downloadCount": 1007
   },
   {
     "id": "ChimeraTailWeld",
@@ -1798,7 +1862,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 1652
+    "downloadCount": 1653
   },
   {
     "id": "Com.Hellcat92.ChangePlayerName",
@@ -1880,7 +1944,7 @@
         "hash": "sha256:1ce74fc011e60199c4f98ca8c05d154e5be21470e0ebc336097890ac9f49a4da"
       }
     ],
-    "downloadCount": 554
+    "downloadCount": 555
   },
   {
     "id": "Com.Hellcat92.TargetGridRefHUD",
@@ -1960,7 +2024,7 @@
         ]
       }
     ],
-    "downloadCount": 837
+    "downloadCount": 838
   },
   {
     "id": "com.JUSTJ7780.globalsoundreplacerno",
@@ -2015,7 +2079,7 @@
         ]
       }
     ],
-    "downloadCount": 2150
+    "downloadCount": 2151
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -2088,7 +2152,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 37356
+    "downloadCount": 37369
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -2157,7 +2221,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 2177
+    "downloadCount": 2178
   },
   {
     "id": "DefensiveAutoTarget",
@@ -2198,12 +2262,124 @@
         "hash": "sha256:e75784cccff75ed0d24dd539185b4af315e5798ffc04b509716dae5dd19d9681"
       }
     ],
-    "downloadCount": 1724
+    "downloadCount": 1726
+  },
+  {
+    "id": "dev.dikka.nuclearconnectivity",
+    "displayName": "NuclearConnectivity",
+    "description": "Client-side Nuclear Option mod for external integrations, currently Steam Timeline combat markers.",
+    "tags": [
+      "QoL",
+      "Integration"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/dikkadev/NOMNOM-NuclearConnectivity"
+      },
+      {
+        "name": "source",
+        "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
+      }
+    ],
+    "authors": [
+      "dikkadev"
+    ],
+    "githubOwner": "dikkadev",
+    "githubRepoName": "NOMNOM-NuclearConnectivity",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NuclearConnectivity-v0.2.0.zip",
+        "version": "0.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/dikkadev/NOMNOM-NuclearConnectivity/releases/download/v0.2.0/NuclearConnectivity-v0.2.0.zip",
+        "hash": "sha256:0511ebb64fd6da8fef8780c4dcd81d8b9bc7e54d203ac55503b0813fe22c022b"
+      }
+    ],
+    "downloadCount": 0
+  },
+  {
+    "id": "dev.dikka.nucleardeathblackout",
+    "displayName": "NuclearDeathBlackout",
+    "description": "Client-side Nuclear Option mod that cuts to black and briefly mutes audio when the local main pilot dies.",
+    "tags": [
+      "Immersion",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/dikkadev/NOMNOM-NuclearDeathBlackout"
+      },
+      {
+        "name": "source",
+        "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
+      }
+    ],
+    "authors": [
+      "dikkadev"
+    ],
+    "githubOwner": "dikkadev",
+    "githubRepoName": "NOMNOM-NuclearDeathBlackout",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NuclearDeathBlackout-v0.2.0.zip",
+        "version": "0.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/dikkadev/NOMNOM-NuclearDeathBlackout/releases/download/v0.2.0/NuclearDeathBlackout-v0.2.0.zip",
+        "hash": "sha256:e6ae546f635beb2e37b8b2fc6e193689eb39cb13c46d8a1861f6e6ed0cd637bd"
+      }
+    ],
+    "downloadCount": 0
+  },
+  {
+    "id": "dev.dikka.nuclearmapplayernames",
+    "displayName": "NuclearMapPlayerNames",
+    "description": "Client-side Nuclear Option mod that shows multiplayer usernames next to player-controlled aircraft on the dynamic map.",
+    "tags": [
+      "QoL",
+      "Map",
+      "Multiplayer"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/dikkadev/NOMNOM-NuclearMapPlayerNames"
+      },
+      {
+        "name": "source",
+        "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
+      }
+    ],
+    "authors": [
+      "dikkadev"
+    ],
+    "githubOwner": "dikkadev",
+    "githubRepoName": "NOMNOM-NuclearMapPlayerNames",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NuclearMapPlayerNames-v0.2.0.zip",
+        "version": "0.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/dikkadev/NOMNOM-NuclearMapPlayerNames/releases/download/v0.2.0/NuclearMapPlayerNames-v0.2.0.zip",
+        "hash": "sha256:2aeb1945d4e0cba4b0d0fd41a1221ac00bb3769afb88c1936f2608fc06e44f8e"
+      }
+    ],
+    "downloadCount": 1
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
     "displayName": "NuclearMenuBackground",
-    "description": "Client-side Nuclear Option mod that replaces the main menu background with an image from the player's PC.",
+    "description": "Client-side Nuclear Option mod that lets players replace the main menu background with a local image.",
     "tags": [
       "Art",
       "UI"
@@ -2211,35 +2387,36 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/NuclearMenuBackground"
+        "url": "https://github.com/dikkadev/NOMNOM-NuclearMenuBackground"
       },
       {
-        "name": "bugs",
-        "url": "https://github.com/dikkadev/NuclearMenuBackground/issues"
+        "name": "source",
+        "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "githubOwner": "dikkadev",
-    "githubRepoName": "NuclearMenuBackground",
+    "githubRepoName": "NOMNOM-NuclearMenuBackground",
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
-        "fileName": "NuclearMenuBackground-v0.1.0.7z",
-        "version": "0.1.0",
+        "fileName": "NuclearMenuBackground-v0.2.0.zip",
+        "version": "0.2.0",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.32",
-        "downloadUrl": "https://github.com/dikkadev/NuclearMenuBackground/releases/download/v0.1.0/NuclearMenuBackground-v0.1.0.7z"
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/dikkadev/NOMNOM-NuclearMenuBackground/releases/download/v0.2.0/NuclearMenuBackground-v0.2.0.zip",
+        "hash": "sha256:b34f5c7ddf8cf519ebe7e4d9289d98ab687928f0b50872a4d2cc160e501d475a"
       }
     ],
-    "downloadCount": 221
+    "downloadCount": 0
   },
   {
     "id": "dev.dikka.nuclearunits",
     "displayName": "NuclearUnits",
-    "description": "Client-side Nuclear Option mod that lets players choose units per HUD readout instead of relying only on the game's single global metric/imperial setting.",
+    "description": "Client-side Nuclear Option mod that lets players choose units per HUD readout instead of relying only on the game's global metric/imperial setting.",
     "tags": [
       "QoL",
       "HUD"
@@ -2247,30 +2424,31 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/NuclearUnits"
+        "url": "https://github.com/dikkadev/NOMNOM-NuclearUnits"
       },
       {
-        "name": "bugs",
-        "url": "https://github.com/dikkadev/NuclearUnits/issues"
+        "name": "source",
+        "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "githubOwner": "dikkadev",
-    "githubRepoName": "NuclearUnits",
+    "githubRepoName": "NOMNOM-NuclearUnits",
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
-        "fileName": "NuclearUnits-v1.2.0.7z",
-        "version": "1.2.0",
+        "fileName": "NuclearUnits-v1.2.1.zip",
+        "version": "1.2.1",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.32",
-        "downloadUrl": "https://github.com/dikkadev/NuclearUnits/releases/download/v1.2.0/NuclearUnits-v1.2.0.7z"
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/dikkadev/NOMNOM-NuclearUnits/releases/download/v1.2.1/NuclearUnits-v1.2.1.zip",
+        "hash": "sha256:33cb88f7abc7a7bd9a3ab3542042a78313ef4242b0191e506d675666446becbe"
       }
     ],
-    "downloadCount": 437
+    "downloadCount": 0
   },
   {
     "id": "emi.shoshanas.ballisticstrikecaller",
@@ -2283,7 +2461,7 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+        "url": "https://github.com/NotAnomie/NOMNOM-emi-shoshanas-ballisticstrikecaller/releases/"
       }
     ],
     "authors": [
@@ -2316,7 +2494,7 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+        "url": "https://github.com/NotAnomie/NOMNOM-emi-shoshanas-hostwebpanel/releases/"
       }
     ],
     "authors": [
@@ -2349,7 +2527,7 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+        "url": "https://github.com/NotAnomie/NOMNOM-emi-shoshanas-maptargetselectguard/releases"
       }
     ],
     "authors": [
@@ -2382,7 +2560,7 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+        "url": "https://github.com/NotAnomie/NOMNOM-emi-shoshanas-spawntool/releases"
       }
     ],
     "authors": [
@@ -2415,7 +2593,7 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+        "url": "https://github.com/NotAnomie/NOMNOM-emi-shoshanas-togglehandbrake/releases"
       }
     ],
     "authors": [
@@ -2479,7 +2657,7 @@
         ]
       }
     ],
-    "downloadCount": 2641
+    "downloadCount": 2643
   },
   {
     "id": "FrontlineMap",
@@ -2537,7 +2715,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 8110
+    "downloadCount": 8112
   },
   {
     "id": "galaxy2_voice",
@@ -2654,7 +2832,7 @@
         "hash": "sha256:f6414b84d1df84c691cdb80fa9db75cce592e066d66fe807e9e379f36449c5fe"
       }
     ],
-    "downloadCount": 66
+    "downloadCount": 67
   },
   {
     "id": "IbisBellyTurretCargoHookPatch",
@@ -2739,7 +2917,7 @@
         ]
       }
     ],
-    "downloadCount": 678
+    "downloadCount": 679
   },
   {
     "id": "IbisDoorGunToggle",
@@ -3074,7 +3252,7 @@
         }
       }
     ],
-    "downloadCount": 18361
+    "downloadCount": 18367
   },
   {
     "id": "klawshout_voice",
@@ -3186,7 +3364,7 @@
         "hash": "sha256:1cb21af1577180fcaec008f70bc9ca2e191de79335fed9817c64463e2d5b4a8c"
       }
     ],
-    "downloadCount": 1585
+    "downloadCount": 1589
   },
   {
     "id": "KR-EW.67",
@@ -3219,7 +3397,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 3284
+    "downloadCount": 3285
   },
   {
     "id": "LaserRocketFix",
@@ -3251,7 +3429,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4716
+    "downloadCount": 4720
   },
   {
     "id": "LiveryManager",
@@ -3402,7 +3580,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1939
+    "downloadCount": 1940
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -4899,7 +5077,7 @@
         ]
       }
     ],
-    "downloadCount": 808
+    "downloadCount": 809
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -5605,7 +5783,7 @@
         ]
       }
     ],
-    "downloadCount": 13353
+    "downloadCount": 13357
   },
   {
     "id": "no-autopilot-mod",
@@ -5935,7 +6113,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 14816
+    "downloadCount": 14821
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -6006,7 +6184,7 @@
         ]
       }
     ],
-    "downloadCount": 678
+    "downloadCount": 679
   },
   {
     "id": "NOBlackBox",
@@ -6060,7 +6238,7 @@
         ]
       }
     ],
-    "downloadCount": 3946
+    "downloadCount": 3947
   },
   {
     "id": "NOControllerVibration",
@@ -6347,7 +6525,7 @@
         ]
       }
     ],
-    "downloadCount": 2243
+    "downloadCount": 2245
   },
   {
     "id": "NOLiveryPlus",
@@ -6685,7 +6863,7 @@
         ]
       }
     ],
-    "downloadCount": 7180
+    "downloadCount": 7181
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -6736,7 +6914,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2941
+    "downloadCount": 2942
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -6967,7 +7145,40 @@
         "hash": "sha256:b8899af8d033a66218213b8a041f3d6ca5eddcb21e6617205822eab7cbdd477e"
       }
     ],
-    "downloadCount": 152
+    "downloadCount": 153
+  },
+  {
+    "id": "Pauel3312.NOMissingWeapons",
+    "displayName": "NOMissingWeapons",
+    "description": "Discounts ammo when weapons are shot off your aircraft.",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/pauel3312/NOMissingWeapons"
+      }
+    ],
+    "authors": [
+      "pauel3312"
+    ],
+    "githubOwner": "pauel3312",
+    "githubRepoName": "NOMissingWeapons",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NOMW.zip",
+        "version": "0.33.3.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/pauel3312/NOMissingWeapons/releases/download/v0.33.3.0/NOMW.zip",
+        "hash": "sha256:5a0d349411bfc2eccffdf0cfa29d82c2563766f52da82326a56ab9d639322af4"
+      }
+    ],
+    "downloadCount": 1
   },
   {
     "id": "pixy_voice",
@@ -7074,7 +7285,7 @@
         ]
       }
     ],
-    "downloadCount": 116
+    "downloadCount": 117
   },
   {
     "id": "QoL",
@@ -7159,7 +7370,7 @@
         ]
       }
     ],
-    "downloadCount": 15329
+    "downloadCount": 15337
   },
   {
     "id": "RepairProgress",
@@ -7199,7 +7410,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 5069
+    "downloadCount": 5070
   },
   {
     "id": "RITA_RVWS",
@@ -7264,7 +7475,7 @@
         ]
       }
     ],
-    "downloadCount": 612
+    "downloadCount": 614
   },
   {
     "id": "RuntimeUnityEditor",
@@ -7297,7 +7508,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 123338
+    "downloadCount": 123341
   },
   {
     "id": "shoshanas.tvmissilehud",
@@ -7310,7 +7521,7 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+        "url": "https://github.com/NotAnomie/NOMNOM-shoshanas-tvmissilehud/releases"
       }
     ],
     "authors": [
@@ -7339,7 +7550,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 437
+    "downloadCount": 442
   },
   {
     "id": "skyeye_voice",
@@ -7432,7 +7643,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 848
+    "downloadCount": 849
   },
   {
     "id": "SplitThrottle",
@@ -7506,7 +7717,7 @@
         "hash": "sha256:6d08fbb38d93e4a04c0f4530de491cc0b57a77fd3e0b201b7d6eb9f93302218d"
       }
     ],
-    "downloadCount": 4272
+    "downloadCount": 4274
   },
   {
     "id": "TargetCamControl",
@@ -7576,7 +7787,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1976
+    "downloadCount": 1979
   },
   {
     "id": "TernionVaporTuner",
@@ -7795,7 +8006,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 3076
+    "downloadCount": 3077
   },
   {
     "id": "ThirdPersonHudMapPipFix",
@@ -7926,7 +8137,7 @@
         ]
       }
     ],
-    "downloadCount": 2111
+    "downloadCount": 2113
   },
   {
     "id": "uuvr",
@@ -7989,7 +8200,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 4263
+    "downloadCount": 4266
   },
   {
     "id": "WeatherController",
@@ -8053,7 +8264,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 7688
+    "downloadCount": 7691
   },
   {
     "id": "YawOnMouse",
@@ -8103,7 +8314,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 875
+    "downloadCount": 876
   },
   {
     "id": "Zorduzd",
