@@ -1,0 +1,41 @@
+{
+  "id": "anomie.kestrel.warheadpayloadpatch",
+  "displayName": "Anomie Kestrel Warhead Payload Patch",
+  "description": "Ever wanted to be a very angry Japanese drone?\r\n\r\nAdds heavy demolition and tactical nuclear suicide payloads to the FQ-106 Kestrel\u2019s Weapons Bay. Requires Blueprinter and the Kestrel mod.",
+  "tags": [
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NotAnomie/NOMNOM-anomie-nuclearoption-developmentkit-bridge/releases"
+    }
+  ],
+  "authors": [
+    "Anomie"
+  ],
+  "githubOwner": "NotAnomie",
+  "githubRepoName": "NOMNOM-anomie-kestrel-warheadpayloadpatch",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "anomie.kestrel.warheadpayloadpatch_v1.3.5.zip",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v1.3.5/anomie.kestrel.warheadpayloadpatch_v1.3.5.zip",
+      "hash": "sha256:248df091e310a8c99863e43837f5c06bd7bc668b923e39dda13710188162d542",
+      "gameVersion": "0.33",
+      "version": "1.3.5",
+      "category": "Release",
+      "dependencies": [
+        {
+          "id": "blueprinter.kestrel",
+          "version": "2.1.0"
+        },
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.19"
+        }
+      ]
+    }
+  ]
+}
